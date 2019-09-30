@@ -6,7 +6,7 @@
     "formatVersion": "1.2",
     "documents": [
         {
-            "title": "Sample Title (Update)",
+            "title": "Sample Title",
             "overviewSubtitle": "Testing the overviewSubtitle",
             "detailSubtitle": "Testing the detailSubtitle. This supposed to be longer",
             "description": "Short description of the playgroundbook",
@@ -17,9 +17,9 @@
             ],
             "contentIdentifier": "io.github.letsgethacking.sample",
             "contentVersion": "1.0",
-            "url": "sample/Microbit 2.playgroundbook.zip",
-            "publishedDate": "2019-09-30T08:30:00+00:00",
-            "lastUpdatedDate": "2019-09-30T08:30:00+00:00",
+            "url": "sample/sample.playgroundbook.zip",
+            "publishedDate": "2019-09-30T08:00:00+00:00",
+            "lastUpdatedDate": "2019-09-30T08:00:00+00:00",
             "thumbnailURL": "sample/thumbnail.png",
             "bannerImageURL": "sample/banner.png",
             "additionalInformation": [
