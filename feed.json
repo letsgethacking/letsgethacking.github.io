@@ -6,7 +6,7 @@
     "formatVersion": "1.2",
     "documents": [
         {
-            "title": "Sample Title (Update)",
+            "title": "Microbit 2",
             "overviewSubtitle": "Testing the overviewSubtitle",
             "detailSubtitle": "Testing the detailSubtitle. This supposed to be longer",
             "description": "Short description of the playgroundbook",
