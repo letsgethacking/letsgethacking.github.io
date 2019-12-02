@@ -6,7 +6,7 @@
     "formatVersion": "1.2",
     "documents": [
         {
-            "title": "micro:bit with Tinker Kit",
+            "title": "tinkerbit",
             "overviewSubtitle": "Learn micro:bit.",
             "detailSubtitle": "",
             "description": "This Playground features a complete guide to the BBC micro:bit in Swift. \n Learn to code in Swift while tinkering with the micro:bit and the unique components located in Tinkercademy's micro:bit Tinker Kit.\n This Playground was designed with usage of the Tinkercademy micro:bit Tinker Kit available at gethacking.com.",
